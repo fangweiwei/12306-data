@@ -1,0 +1,2 @@
+class StationTrain
+end

@@ -1,0 +1,1 @@
+http://stackoverflow.com/questions/7982421/using-client-ssl-in-a-ruby-on-rails-app

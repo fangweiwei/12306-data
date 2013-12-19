@@ -1,0 +1,1 @@
+openssl x509 -inform DER -outform PEM -in srca.cer -out srca.pem
